@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="com.pp_testPRJ_war_1.0">
+    <test name="testMethod suite">
+        <classes>
+            <class name="testMethod.LoginTest"/>
+            <class name="testMethod.TestParallel"/>
+        </classes>
+    </test>
+
+</suite>
